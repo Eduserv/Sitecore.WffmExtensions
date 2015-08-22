@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.WffmExtensions", "src\Sitecore.WffmExtensions\Sitecore.WffmExtensions.csproj", "{80D86A89-F757-468B-842A-B61B1BF41866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.WffmExtensions.Website", "src\Sitecore.WffmExtensions.Website\Sitecore.WffmExtensions.Website.csproj", "{8DD68A35-84B5-44B6-89BF-6B1D0C2DA7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D86A89-F757-468B-842A-B61B1BF41866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D86A89-F757-468B-842A-B61B1BF41866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D86A89-F757-468B-842A-B61B1BF41866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D86A89-F757-468B-842A-B61B1BF41866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD68A35-84B5-44B6-89BF-6B1D0C2DA7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD68A35-84B5-44B6-89BF-6B1D0C2DA7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD68A35-84B5-44B6-89BF-6B1D0C2DA7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD68A35-84B5-44B6-89BF-6B1D0C2DA7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
