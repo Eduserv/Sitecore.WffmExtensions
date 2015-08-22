@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Sitecore.Sitecore.WffmExtensions</id>
+    <version>1.0.1.0</version>
+    <title>Sitecore WFFM Extensions</title>
+    <authors>Eduserv</authors>
+    <owners>Eduserv</owners>
+    <licenseUrl>https://github.com/Eduserv/Sitecore.WffmExtensions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Eduserv/Sitecore.WffmExtensions</projectUrl>
+	<iconUrl>https://raw.githubusercontent.com/Eduserv/Sitecore.WffmExtensions/master/NugetPackage/eduserv.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library with some useful extensions to the Sitecore Web Forms for Marketers (WFFM) module.</description>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\Sitecore.WffmExtensions" target="lib" />
+    <file src="content\zzz.Sitecore.WffmExtensions.config" target="content\App_Config\Include\zzz.Sitecore.WffmExtensions.config" />
+  </files>
+</package>
